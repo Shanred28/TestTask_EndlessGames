@@ -361,3 +361,12 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Library
+/Temp
+/UserSettings
+/.vsconfig
+/Assembly-CSharp-firstpass.csproj
+/Assembly-CSharp.csproj
+/TestTask_EndlessGames.sln
+/UniRx.csproj
+/UniRx.Examples.csproj
